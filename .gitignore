@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/
+output/
+INPUT/
+*.log
+.DS_Store
+.claude/
